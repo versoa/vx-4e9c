@@ -1,0 +1,1 @@
+private text under a denied directory
